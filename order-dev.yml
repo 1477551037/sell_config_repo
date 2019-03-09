@@ -3,8 +3,8 @@ spring:
     name: order
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    username: root12
-    password: 123456
+    username: root
+    password: admin
     url: jdbc:mysql://127.0.0.1:3306/SpringCloud_Sell?characterEncoding=utf-8&useSSL=false
 eureka:
   client:
